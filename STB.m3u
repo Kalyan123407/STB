@@ -1,0 +1,165 @@
+#EXTM3U
+# @StreamFlex19
+# Generated: 2026-08-31 02:30:34 UTC
+# Total Channels: 20 (MPD: 20 | HLS: 0)
+# License: https://streamflexsmm.in/licenseDR/
+
+#EXTINF:-1 tvg-id="520" tvg-name="DD Rajyasabha" tvg-logo="" group-title="",DD Rajyasabha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143431~exp=1788165031~acl=/bpk-tv/DD_Rajyasabha_BTS/WDVLive/*~hmac=b12ff8613dccba709e3d1e7ee1411c52d6573c4cb1bc360655ff6f4239497777"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Rajyasabha_BTS/WDVLive/index.mpd?__hdnea__=st=1788143431~exp=1788165031~acl=/bpk-tv/DD_Rajyasabha_BTS/WDVLive/*~hmac=b12ff8613dccba709e3d1e7ee1411c52d6573c4cb1bc360655ff6f4239497777
+
+#EXTINF:-1 tvg-id="522" tvg-name="Loksabha TV" tvg-logo="" group-title="",Loksabha TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143431~exp=1788165031~acl=/bpk-tv/Loksabha_TV_BTS/WDVLive/*~hmac=90925427b781e425f7bf07308b558fcf07478057072da636b023aacd3ea20f7f"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Loksabha_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1788143431~exp=1788165031~acl=/bpk-tv/Loksabha_TV_BTS/WDVLive/*~hmac=90925427b781e425f7bf07308b558fcf07478057072da636b023aacd3ea20f7f
+
+#EXTINF:-1 tvg-id="892" tvg-name="SonySportsTen3HinHDSTB" tvg-logo="" group-title="",SonySportsTen3HinHDSTB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143431~exp=1788165031~acl=/bpk-tv/SonySportsTen3HinHDSTB_BTS/WDVLive/*~hmac=0da3ec982612c35c8f8f9ace530c814c555ce5ca13c500cb274b2220a864c570"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonySportsTen3HinHDSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1788143431~exp=1788165031~acl=/bpk-tv/SonySportsTen3HinHDSTB_BTS/WDVLive/*~hmac=0da3ec982612c35c8f8f9ace530c814c555ce5ca13c500cb274b2220a864c570
+
+#EXTINF:-1 tvg-id="162" tvg-name="SonySportsTen1HDSTB" tvg-logo="" group-title="",SonySportsTen1HDSTB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonySportsTen1HDSTB_BTS/WDVLive/*~hmac=a20212d6edb33ba48fe27e47e7cbbcf10d2b7ec75557212d2064ef9f7db78156"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonySportsTen1HDSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonySportsTen1HDSTB_BTS/WDVLive/*~hmac=a20212d6edb33ba48fe27e47e7cbbcf10d2b7ec75557212d2064ef9f7db78156
+
+#EXTINF:-1 tvg-id="155" tvg-name="SonySportsTen5HDSTB" tvg-logo="" group-title="",SonySportsTen5HDSTB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonySportsTen5HDSTB_BTS/WDVLive/*~hmac=ce644bd9469c863dfb9019a96f63cc1ec8eb8e4b31f9e88d826351ddcca95924"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonySportsTen5HDSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonySportsTen5HDSTB_BTS/WDVLive/*~hmac=ce644bd9469c863dfb9019a96f63cc1ec8eb8e4b31f9e88d826351ddcca95924
+
+#EXTINF:-1 tvg-id="697" tvg-name="SonyAATH" tvg-logo="" group-title="",SonyAATH
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonyAATH_BTS/WDVLive/*~hmac=5df616665a571cd06a20f8d9834187bcb88f4db4e36fcad9583ca39ee25cf43c"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyAATH_BTS/WDVLive/index.mpd?__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonyAATH_BTS/WDVLive/*~hmac=5df616665a571cd06a20f8d9834187bcb88f4db4e36fcad9583ca39ee25cf43c
+
+#EXTINF:-1 tvg-id="471" tvg-name="SonySAB" tvg-logo="" group-title="",SonySAB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonySAB_BTS/WDVLive/*~hmac=9fbd36b99a98fb00031eed3c8a2f080f93800b3ea7675e2b4e1748ed4641e021"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/WDVLive/index.mpd?__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonySAB_BTS/WDVLive/*~hmac=9fbd36b99a98fb00031eed3c8a2f080f93800b3ea7675e2b4e1748ed4641e021
+
+#EXTINF:-1 tvg-id="891" tvg-name="SonySportsTen2HDSTB" tvg-logo="" group-title="",SonySportsTen2HDSTB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonySportsTen2HDSTB_BTS/WDVLive/*~hmac=6fac6912642576bfb2e41df81fa3d493b8162f684caffb756c9e5c8d4b1e11c6"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonySportsTen2HDSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonySportsTen2HDSTB_BTS/WDVLive/*~hmac=6fac6912642576bfb2e41df81fa3d493b8162f684caffb756c9e5c8d4b1e11c6
+
+#EXTINF:-1 tvg-id="474" tvg-name="SonyPAL" tvg-logo="" group-title="",SonyPAL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonyPAL_BTS/WDVLive/*~hmac=e34e945a3828d65ca44b5d89c40de0eb3c5b98a2955cbe939926d6f86b6fb309"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPAL_BTS/WDVLive/index.mpd?__hdnea__=st=1788143432~exp=1788165032~acl=/bpk-tv/SonyPAL_BTS/WDVLive/*~hmac=e34e945a3828d65ca44b5d89c40de0eb3c5b98a2955cbe939926d6f86b6fb309
+
+#EXTINF:-1 tvg-id="1146" tvg-name="SonyMarathi" tvg-logo="" group-title="",SonyMarathi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/SonyMarathi_BTS/WDVLive/*~hmac=def37fc718c7049e4290b4982ccb00f2878930ea7b7c9b39ccb4ab918eaab19b"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMarathi_BTS/WDVLive/index.mpd?__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/SonyMarathi_BTS/WDVLive/*~hmac=def37fc718c7049e4290b4982ccb00f2878930ea7b7c9b39ccb4ab918eaab19b
+
+#EXTINF:-1 tvg-id="2832" tvg-name="Sony Max HD" tvg-logo="" group-title="",Sony Max HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/Sony_Max_HD_BTS/WDVLive/*~hmac=bfc479ffbb9ee1f35c0c22b1df8b28353f84f86c0b4709845b10575d3b2ce089"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_Max_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/Sony_Max_HD_BTS/WDVLive/*~hmac=bfc479ffbb9ee1f35c0c22b1df8b28353f84f86c0b4709845b10575d3b2ce089
+
+#EXTINF:-1 tvg-id="2835" tvg-name="Sony Wah" tvg-logo="" group-title="",Sony Wah
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/Sony_Wah_BTS/WDVLive/*~hmac=936e55c80bc2ff6e1a8219324253ddb49e2f4c650f9bbfe302a355e4e51a8c4f"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_Wah_BTS/WDVLive/index.mpd?__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/Sony_Wah_BTS/WDVLive/*~hmac=936e55c80bc2ff6e1a8219324253ddb49e2f4c650f9bbfe302a355e4e51a8c4f
+
+#EXTINF:-1 tvg-id="1886" tvg-name="Sansad TV RajyaSabha" tvg-logo="" group-title="",Sansad TV RajyaSabha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/Sansad_TV_RajyaSabha_BTS/WDVLive/*~hmac=024910ed4538a1661d7b64c75168b2b75881d6e81bf02e2c0c5e93cd83c3c7c2"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sansad_TV_RajyaSabha_BTS/WDVLive/index.mpd?__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/Sansad_TV_RajyaSabha_BTS/WDVLive/*~hmac=024910ed4538a1661d7b64c75168b2b75881d6e81bf02e2c0c5e93cd83c3c7c2
+
+#EXTINF:-1 tvg-id="2834" tvg-name="Sony MAX2" tvg-logo="" group-title="",Sony MAX2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/Sony_MAX2_BTS/WDVLive/*~hmac=e982fb2892d435f69492b721af7442341142db9d51d438abcdae1427f297cf01"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_MAX2_BTS/WDVLive/index.mpd?__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/Sony_MAX2_BTS/WDVLive/*~hmac=e982fb2892d435f69492b721af7442341142db9d51d438abcdae1427f297cf01
+
+#EXTINF:-1 tvg-id="1773" tvg-name="SonySportsTen4TelSTB" tvg-logo="" group-title="",SonySportsTen4TelSTB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/SonySportsTen4TelSTB_BTS/WDVLive/*~hmac=30de55e99a54b19e5bf5ce7034f831436a5222dda9b76f769c58537e8522d268"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonySportsTen4TelSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/SonySportsTen4TelSTB_BTS/WDVLive/*~hmac=30de55e99a54b19e5bf5ce7034f831436a5222dda9b76f769c58537e8522d268
+
+#EXTINF:-1 tvg-id="3585" tvg-name="SonyTen4Kan" tvg-logo="" group-title="",SonyTen4Kan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/SonyTen4Kan_BTS/WDVLive/*~hmac=593f33ff1a098c0789291eedace7b47e2bdcb15426d80bb999ffaec545f500c2"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyTen4Kan_BTS/WDVLive/index.mpd?__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/SonyTen4Kan_BTS/WDVLive/*~hmac=593f33ff1a098c0789291eedace7b47e2bdcb15426d80bb999ffaec545f500c2
+
+#EXTINF:-1 tvg-id="3514" tvg-name="SonySportsTen4TamSTB" tvg-logo="" group-title="",SonySportsTen4TamSTB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/SonySportsTen4TamSTB_BTS/WDVLive/*~hmac=fd10ef675a50062f0aeb82095139f09e990f0bbae3ac1be1ea4ed97823d9a632"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonySportsTen4TamSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1788143433~exp=1788165033~acl=/bpk-tv/SonySportsTen4TamSTB_BTS/WDVLive/*~hmac=fd10ef675a50062f0aeb82095139f09e990f0bbae3ac1be1ea4ed97823d9a632
+
+#EXTINF:-1 tvg-id="762" tvg-name="SonyPIX" tvg-logo="" group-title="",SonyPIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143434~exp=1788165034~acl=/bpk-tv/SonyPIX_BTS/WDVLive/*~hmac=bc012b3b3f177b654d0c785cac4e3acc4bcf32a74c5d443674757b77b9ba76dd"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_BTS/WDVLive/index.mpd?__hdnea__=st=1788143434~exp=1788165034~acl=/bpk-tv/SonyPIX_BTS/WDVLive/*~hmac=bc012b3b3f177b654d0c785cac4e3acc4bcf32a74c5d443674757b77b9ba76dd
+
+#EXTINF:-1 tvg-id="821" tvg-name="SonyBBCEarthHin" tvg-logo="" group-title="",SonyBBCEarthHin
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143434~exp=1788165034~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=fba0675e654d6e6dd50e3162ecf002cf09082c8b3871efa83849d1bdfc203518"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1788143434~exp=1788165034~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=fba0675e654d6e6dd50e3162ecf002cf09082c8b3871efa83849d1bdfc203518
+
+#EXTINF:-1 tvg-id="3418" tvg-name="SonyMAX1" tvg-logo="" group-title="",SonyMAX1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/licenseDR/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0
+#EXTHTTP:{"cookie": "__hdnea__=st=1788143434~exp=1788165034~acl=/bpk-tv/SonyMAX1_BTS/WDVLive/*~hmac=30356904609dd15bacc8c5b54381f54aceb82f0237a0b14496e436d4046fd37b"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX1_BTS/WDVLive/index.mpd?__hdnea__=st=1788143434~exp=1788165034~acl=/bpk-tv/SonyMAX1_BTS/WDVLive/*~hmac=30356904609dd15bacc8c5b54381f54aceb82f0237a0b14496e436d4046fd37b
