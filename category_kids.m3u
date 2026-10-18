@@ -1,0 +1,159 @@
+#EXTM3U
+# @StreamFlex0719
+# Generated: 2026-10-18 16:21:38 UTC
+# Total Channels: 23 (MPD: 20 | HLS: 3)
+
+#EXTINF:-1 tvg-id="872" tvg-name="Sony YAY" tvg-logo="https://img.media.jio.com/tvpimages/20/59/300270_1753198448010_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Sony YAY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://gec-007-jc.slivcdn.com/HLS/df7e351d-5b1c-4154-b561-6de75591d942/lives_show_yay_guru_aur_bhole_S02_ep15_b_Surtaal_Nagar_Ki_Mummy_20231020T123436.m3u8?contentId=1000250356&cpCustomerId=1556784499&deviceId=deviceId&partner=jiotvvod&partnerId=1556784491&platform=ANDROID_PHONE&user-agent=jiotv&sku_name=Free&__hdnea__=st=1792340400~exp=1792340520~acl=/HLS/df7e351d-5b1c-4154-b561-6de75591d942/*~hmac=fe42e0a52945560c46a344b0463cc9319188ff98b2cafc6c513aca661a1de690?__hdnea__=st=1792340401~exp=1792426801~acl=/HLS/df7e351d-5b1c-4154-b561-6de75591d942/*~hmac=e450ee721027381d14abfc9427c37423a2880a9c6c49265076dd78cb4f777a51
+
+#EXTINF:-1 tvg-id="194348" tvg-name="Kochu TV" tvg-logo="https://img.media.jio.com/tvpimages/24/20/300428_1774376218190_l_medium.jpg" group-title="Kids" tvg-language="Malayalam",Kochu TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gkDK7i94jt2YkoGZvohlVw","kid":"muQJHbZXX_mjNaycP66gMw"},{"kty":"oct","k":"tlzdfP1Zmoy6ii-Zi2O6Hw","kid":"tAPlRCQhWN2KwVg_LVnp4g"},{"kty":"oct","k":"vX5PMSC9A5oKnA2irfmgfw","kid":"g12LY1moViKQI2pSWuOufA"},{"kty":"oct","k":"BoKV_nf7rqgQDrHlWtAXAw","kid":"Wsy8iZNaXbmPdHxiL0BRfA"},{"kty":"oct","k":"HRKiqwXRy12S1efYnwgbQA","kid":"5UvABpibWSGz1QlLkAHWeg"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Kochu_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1792340403~exp=1792362003~acl=/bpk-tv/Kochu_TV_BTS/WDVLive/*~hmac=33aa577816eb1103b1f1631b1010d8e432dc79b96a50990442d2d020f5397df8
+
+#EXTINF:-1 tvg-id="544" tvg-name="Nick Jr" tvg-logo="https://img.media.jio.com/imagespublic/0/10/301164_1643893262460_p_medium.jpg" group-title="Kids" tvg-language="English",Nick Jr
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ld9fvzGc03a56tH1hRdXbQ","kid":"gHQnBFx6UEO8Aq_Vq3H-QQ"},{"kty":"oct","k":"auBFY5smpfkgDvIM-uzx8Q","kid":"LQsGPXOkWUy0Bvcmrz0VCw"},{"kty":"oct","k":"Kl6Bw5sy800BX7aw9HEZPA","kid":"mQiucsLqW_y_ckQDVHCZ6Q"},{"kty":"oct","k":"GjYewGH8zrx23cOlqrNVxA","kid":"iyBUkT3cWiuu28on88rWiw"},{"kty":"oct","k":"itWN6oR-Wxh5ucNiTzj5Vw","kid":"kFJ1S3b_WhC-aq4IJBbfaQ"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Junior_BTS/WDVLive/index.mpd?__hdnea__=st=1792340410~exp=1792362010~acl=/bpk-tv/Nick_Junior_BTS/WDVLive/*~hmac=c47f8fccc30d06b0a84e468755171b8753db040503fb77623a8332b554f6f162
+
+#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="https://img.media.jio.com/imagespublic/60/86/301550_1696234715611_p_medium.jpg" group-title="Kids" tvg-language="English",Nick HD+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TgD1sSl71iuOlAqlvw3StA","kid":"kiFXFyRFVG6cOfP1Hbouow"},{"kty":"oct","k":"J39-Px5f9O5R_SYWzVzWlw","kid":"inrS6kJfWSqsS-X6NanVlQ"},{"kty":"oct","k":"9VgnsbZH--Q7XzJdFeWe4w","kid":"kYpj1QSTVdOkZgotTtq9Qg"},{"kty":"oct","k":"Ft0yLpZ5XnNxmd2F7qVWFw","kid":"9WAwPhyuUQC3PlUWhudzeQ"},{"kty":"oct","k":"q_cOAFdMaaolBVp7rPv8rQ","kid":"Nv5jEjsBVH656tb7rkXzwg"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/WDVLive/index.mpd?__hdnea__=st=1792340435~exp=1792362035~acl=/bpk-tv/Nick_HD_Plus_BTS/WDVLive/*~hmac=b5fe19a0395787f6faff720c44ca055cbf1630d9bc7c069650ffd45273470a10
+
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids " tvg-logo="https://img.media.jio.com/imagespublic/44/74/301581_1707808057228_p_medium.jpg" group-title="Kids" tvg-language="Hindi",Discovery Kids 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VhmzFBQsm0Ll0h3lzUholw","kid":"nZNmkf3rXly15fhf76AXVw"},{"kty":"oct","k":"sAd309QpgLTNf59XWd30xg","kid":"oKgStf4IXoGbS99p7qX-TA"},{"kty":"oct","k":"p5KxL3EyQX2hgg4sqCqkcg","kid":"FNzuTThrXViQNw-938ERrw"},{"kty":"oct","k":"2C1ReZ-tbM4jCIFRMPy6eg","kid":"xsCtJz_YUQqg2qvzsBEiEQ"},{"kty":"oct","k":"hRMJeBYCi3HWccom3GHiQw","kid":"47ZBHu9XWryCEtLUibLYzw"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryKidsHin_BTS/WDVLive/index.mpd?__hdnea__=st=1792340437~exp=1792362037~acl=/bpk-tv/DiscoveryKidsHin_BTS/WDVLive/*~hmac=7cab75b737fb8ed3b3c8f3a583e122aff05eb63ee2f5a4e65150d0277b0f69d2
+
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo" tvg-logo="https://img.media.jio.com/imagespublic/22/35/301584_1707144669257_p_medium.jpg" group-title="Kids" tvg-language="Hindi",Pogo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"beGxqXuNgWJS5p6Lcj0m7Q","kid":"u93qvdd3XUmQ_9Rej7EjPw"},{"kty":"oct","k":"Bw1jgE7yu7NAm7npH8jjFw","kid":"4rBRWJJnVx6yXnOW5l0xdA"},{"kty":"oct","k":"pMRSnTw920LzfCrcVRwfSA","kid":"W8xYOM9lXzG0HLWSvv_v7A"},{"kty":"oct","k":"IhRFOz32SfJDYCE5GqJHgA","kid":"Gftxq7AUXWCi24QTcy0PfA"},{"kty":"oct","k":"D09sLJpMRyrIPYQDijUv8g","kid":"d2eFmENiX8eaUiDbG7ciTw"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Pogo_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1792340438~exp=1792362038~acl=/bpk-tv/Pogo_Hindi_BTS/WDVLive/*~hmac=9863a7f7e8a376f07cca6e540e1178118bc72e109bc202b15bce7cdb657fd051
+
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network" tvg-logo="https://img.media.jio.com/imagespublic/27/39/301585_1707144330052_p_medium.jpg" group-title="Kids" tvg-language="Hindi",Cartoon Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ul9nWTCe-eR9c_cf5M1RKQ","kid":"Z74RelbpVraOQxQhj2dC3Q"},{"kty":"oct","k":"VyKYFz-P7oQBbrWfgKTP5g","kid":"GjYgJatRXkSn290B4dbNwA"},{"kty":"oct","k":"Tw1vuy6WrpYUb3KE-D7ldg","kid":"oXBFxZfsWOKNV-vF4ZJXhQ"},{"kty":"oct","k":"GrgXErCeM5Rsdkb9FVIBaQ","kid":"Uokn6iTVWfyE8M4cinMpxA"},{"kty":"oct","k":"cRS_4SVXmQ6xt-w24_42_g","kid":"L9p8l1jXVaeyDfZ7k5ncPg"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/CNHindi_BTS/WDVLive/index.mpd?__hdnea__=st=1792340438~exp=1792362038~acl=/bpk-tv/CNHindi_BTS/WDVLive/*~hmac=238620ed6c917c8659bacb6c12b4a6d5360868df337cad09b70f96c02a245570
+
+#EXTINF:-1 tvg-id="3022" tvg-name="Unique Tv" tvg-logo="https://img.media.jio.com/imagespublic/25/94/301679_1713349268035_p_medium.jpg" group-title="Kids" tvg-language="Hindi",Unique Tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LRDr2u459FXNWaipvdRrjQ","kid":"XVm708FFU4CJ60sBYfCL2Q"},{"kty":"oct","k":"cM7S7_St0WFrpmXr1U3ncg","kid":"ynswgjsUVFatjLGrdCUquA"},{"kty":"oct","k":"AQa2PRO8TMR3hFWhNa7QBQ","kid":"tvWr00GUVKmTveVwaDT6Lw"},{"kty":"oct","k":"6Nxc5QP5U0KrzCyv3rj5cQ","kid":"wop_0LA8WdmZOri9CW7aEg"},{"kty":"oct","k":"GJ_1gllFJa0KAG5nxVzhPA","kid":"1hD1mK6EWmWsH-AI7wNTkA"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Unique_Tv_BTS/WDVLive/index.mpd?__hdnea__=st=1792340448~exp=1792362048~acl=/bpk-tv/Unique_Tv_BTS/WDVLive/*~hmac=365eb5118ecc5a2353209b95f9fbf7440c5e083f3e6bbb3bb6df0c7b7da0ffc5
+
+#EXTINF:-1 tvg-id="1391" tvg-name="Hungama TV" tvg-logo="https://img.media.jio.com/tvpimages/86/46/302072_1753187422003_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Hungama TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QxNhkTi795uSI06By9syPw","kid":"8dp7am9ZWTyDS5cUYaoOuQ"},{"kty":"oct","k":"GloLq5Vj33785mdW1K3C8g","kid":"DDyEl-1SXtiYtZpZqRvIgg"},{"kty":"oct","k":"TD6qKllHA4oObRcUdgs_Sw","kid":"SfRq0bigXM26ZYPLViperA"},{"kty":"oct","k":"vqpksMidxNqsxZwCHQRc6Q","kid":"yIg3JIV9XaS04ASm6vwmqw"},{"kty":"oct","k":"I750E_ZQujuxrMB8pxu_jw","kid":"oKnotS5sVOea2bgo_hl7_Q"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Hungama_BTS/WDVLive/index.mpd?__hdnea__=st=1792340469~exp=1792362069~acl=/bpk-tv/Hungama_BTS/WDVLive/*~hmac=5a216d7666005c1e41514b1dea4d1bea37f8787e903fac1f5fa47cb5dfa09b30
+
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney" tvg-logo="https://img.media.jio.com/tvpimages/1/35/302071_1753185242621_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Disney
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kOAbV44Pw2MPSqz7nUIg4Q","kid":"ubaHp8KbUaOXAS5E20WQCA"},{"kty":"oct","k":"4ajGCHST6gBFKX0aQXeYTA","kid":"jfyNrgQYU-K6Ah8MTwFNyA"},{"kty":"oct","k":"2PlPD30m9QNI4LBO0tAQiA","kid":"PHiIcDZ5WhGa-qto6UgY1Q"},{"kty":"oct","k":"vNsoAfXQ0Ck-BwDQ3-PI_A","kid":"pc9CThxCWb6fLjNnl9TNkQ"},{"kty":"oct","k":"ofmUvnIvYnYq5Usx5U6aoA","kid":"uziFCOgRXpmp1Hrcn_daBQ"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/index.mpd?__hdnea__=st=1792340469~exp=1792362069~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=1cbca983653e788abd125b8c65493537ba090ee020335adf0cbd12efd2b9814d
+
+#EXTINF:-1 tvg-id="1374" tvg-name="Disney Junior" tvg-logo="https://img.media.jio.com/tvpimages/42/95/302074_1749651921563_p.jpg" group-title="Kids" tvg-language="English",Disney Junior
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UxhlP53IZxQ0YmdHFNvUZg","kid":"-qmz9mXtVoi1B5T3P1N4TA"},{"kty":"oct","k":"jWVp_-4V0SiXSCS35Fxe5w","kid":"-oCvC7jcVlG8CHeu5p47Hw"},{"kty":"oct","k":"6bIPpdDLCDT-tMIE6TQj3Q","kid":"O2WQLaIsUXOck616tTDNJQ"},{"kty":"oct","k":"Ojb1WshrboqG-lPFvysKhw","kid":"kvt7I_fMX5WLsaQ10nV6lg"},{"kty":"oct","k":"exFNgIyBFjiVLy4zkqh4ig","kid":"TfYOX-zaXHSo8eZGgfWugA"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/WDVLive/index.mpd?__hdnea__=st=1792340469~exp=1792362069~acl=/bpk-tv/Disney_Junior_BTS/WDVLive/*~hmac=21c253701925bb05d9e3d20347954f9a520bceb0d35f1de3bdecbad23de65139
+
+#EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://img.media.jio.com/tvpimages/49/37/302079_1753198864150_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Super Hungama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xPrUlRQxgf-4B8TYApp30Q","kid":"Ndm5X_geU6eRWNbfOVXvBg"},{"kty":"oct","k":"ibVHntJSNhQjgetSY3WO3w","kid":"7nr41lfeV42ycmIBxpN3sA"},{"kty":"oct","k":"SxvidxXN__JZui5hMGv4sA","kid":"ESKZngstVIeDEdjwYYALXg"},{"kty":"oct","k":"fjYCYSloxPY4dn7zGvMsDA","kid":"nyNEk3JaUh2hFlNUMiCl2A"},{"kty":"oct","k":"ze4_3-7c9RxT49hBIBWBUQ","kid":"7GdE6CHjXBeEXZ-yCN1ihg"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/WDVLive/index.mpd?__hdnea__=st=1792340470~exp=1792362070~acl=/bpk-tv/Super_Hungama_BTS/WDVLive/*~hmac=75cad2b097ea8cb910773e84c1a292daf429e4dee0f143a20b11a0f61b4dcfef
+
+#EXTINF:-1 tvg-id="3321" tvg-name="ZB Cartoon" tvg-logo="https://img.media.jio.com/tvpimages/95/12/302145_1753190992618_l_medium.jpg" group-title="Kids" tvg-language="Bengali",ZB Cartoon
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://jiotvpllive.cdn.jio.com/bpk-tv/zbcatun/HLSPartner/index.m3u8?__hdnea__=st=1792340473~exp=1792362073~acl=/bpk-tv/zbcatun/HLSPartner/*~hmac=353ff963dfda6e32b7c8c7010ec6101799c6d58e11a86c30e375038bccb3e1a5
+
+#EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://img.media.jio.com/tvpimages/43/6/304034_1777617220424_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Epic Kids
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Gd7QPJQjvDsvztx8t7XW-g","kid":"LHrNYnhuXZGcfygDU9zm4w"},{"kty":"oct","k":"30-YvLfa5ZxLOJ2sORnmMA","kid":"3JuzzroqW3u89VrneBeXaQ"},{"kty":"oct","k":"-ROLiUXffY86ddwOnh2XJw","kid":"38ecDKwcWcugCNzJVmzP0w"},{"kty":"oct","k":"9zzOOt9idv1mfqHYZCKrNw","kid":"PzpxE6tHVf2VY-lblAwXjQ"},{"kty":"oct","k":"1-LSxBhHy8GaOOVIf3ZNcg","kid":"kt3GlGS3XAi8-1lDx2wIEw"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Gubbare_BTS/WDVLive/index.mpd?__hdnea__=st=1792340476~exp=1792362076~acl=/bpk-tv/Gubbare_BTS/WDVLive/*~hmac=fb01a4d6d1359d8b55fa4751c6df304b102fa8d552fbb51e41a6fe510991612d
+
+#EXTINF:-1 tvg-id="815" tvg-name="Sonic" tvg-logo="https://img.media.jio.com/tvpimages/6/81/304056_1764335713361_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Sonic
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iTodbtreHiwk5uAsbtYL4w","kid":"TUOyonQzVMmDxZlAf_KgdA"},{"kty":"oct","k":"OVbcGUpi1s3gZwKDB3mzgA","kid":"hhnY9qY2U920cX31v1jHsw"},{"kty":"oct","k":"yxAB3iHT6CvIv0ZtoUoA-g","kid":"-FTej-k_XaqUl4_gEkFhEA"},{"kty":"oct","k":"_K6iJSHmXww77aMTCZ4nVw","kid":"MVnAdkI8XMeU5RntcF1T4A"},{"kty":"oct","k":"kHo07Ia27cJssSSf1eoTnw","kid":"Z1c-6EfUVM2RW-DzNvJmJg"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/sonic_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1792340477~exp=1792362077~acl=/bpk-tv/sonic_Hindi_BTS/WDVLive/*~hmac=644d8921c923f44210dfbe3de82f0d581b7a46990f089c47e32590e3954a9885
+
+#EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+" tvg-logo="https://img.media.jio.com/tvpimages/7/75/304059_1764844897116_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Cartoon Network HD+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RQbTxnK7FVI6zGyakM1xgg","kid":"d_HwMJu5Wyix1fVV2Xc5Vw"},{"kty":"oct","k":"MJBLJB4OtuxqUtacfBcnSA","kid":"UKiFdwc9X8GBiRKNOi55yw"},{"kty":"oct","k":"jGArOQWlqpN8_b0TOS66TA","kid":"9yn3papEWqufj48ori4uJQ"},{"kty":"oct","k":"2w81W0PyslgRfN3qE_mumg","kid":"xGeVeh6nXTCBKv6fviMD7A"},{"kty":"oct","k":"KvSTetvUgosvwYOHkXOc6A","kid":"hnuv1SeEVWyJqcU7f40EQw"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/CNHDHindi_BTS/WDVLive/index.mpd?__hdnea__=st=1792340477~exp=1792362077~acl=/bpk-tv/CNHDHindi_BTS/WDVLive/*~hmac=d01539401eceee15cbd9b543759a80ae2026466a2ea650df69efed51dc5a7ea5
+
+#EXTINF:-1 tvg-id="3433" tvg-name="Discovery Kids Kannada" tvg-logo="https://img.media.jio.com/tvpimages/49/16/304063_1764845065643_l_medium.jpg" group-title="Kids" tvg-language="Kannada",Discovery Kids Kannada
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"j6zeIJn79xN7OF4x3bmaTw","kid":"0CAYMX1kVtahxGHS3tRivA"},{"kty":"oct","k":"A46Pkszsq-gwD_EN3alaXQ","kid":"ZluSqgdYUl-77yY4afq2cA"},{"kty":"oct","k":"447nAcvC5mDxgdFYrYSk9g","kid":"VZnfuB9RWEO18uQYXo4fYA"},{"kty":"oct","k":"9YD0511mb2RFyKklMmwIyA","kid":"ZcB1vJCgU_md71ESF97qNw"},{"kty":"oct","k":"fbKemgu8dWVB6eWPJs7ccA","kid":"KFAtQWQSWTO_yyRbM4Fj2g"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryKidsKan_BTS/WDVLive/index.mpd?__hdnea__=st=1792340477~exp=1792362077~acl=/bpk-tv/DiscoveryKidsKan_BTS/WDVLive/*~hmac=4dbf87acb99f1159b96a1a3fcc949e4ca1c4e6888f40ba74f5defb38421de1ba
+
+#EXTINF:-1 tvg-id="3467" tvg-name="Green Gold TV" tvg-logo="https://img.media.jio.com/tvpimages/94/85/304080_1768981610985_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Green Gold TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://jiotvpllive.cdn.jio.com/bpk-tv/greengold/HLSPartner/index.m3u8?__hdnea__=st=1792340479~exp=1792362079~acl=/bpk-tv/greengold/HLSPartner/*~hmac=1715697d747fe0163031387a9afb5b8a54c1ec5b1cd46f0ba8e7a4d3c20f59ba
+
+#EXTINF:-1 tvg-id="545" tvg-name="Nick" tvg-logo="https://img.media.jio.com/tvpimages/77/20/304139_1774031339760_l_medium.jpg" group-title="Kids" tvg-language="Hindi",Nick
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7X_QMXhd4zv2XPOYqy3gUQ","kid":"dAF9TVcyU0O_uvkntuwcFA"},{"kty":"oct","k":"DtzocLLL_0p70xzAZCuM9w","kid":"672uX4YmW3aQjRRCMrV0Pg"},{"kty":"oct","k":"aqZIKIJm9e_VKqmQ8lz1Zw","kid":"aNPiCzeIX6yZhCbSkjAKtA"},{"kty":"oct","k":"nyW-2ADUjS7yT9fAaWeowg","kid":"bqVmVe2gVn-ZC4o9YThVqw"},{"kty":"oct","k":"jOtQTDJGAxWjf6COIDC3pw","kid":"16vsRmR9Wx6Uen1nCqerCw"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1792340482~exp=1792362082~acl=/bpk-tv/Nick_Hindi_BTS/WDVLive/*~hmac=c2ba21a0e3de110699fc493738a502f92e6824099ef4a10dc19bdac9cc6a2e6f
+
+#EXTINF:-1 tvg-id="194346" tvg-name="Kushi TV" tvg-logo="https://img.media.jio.com/tvpimages/25/92/304152_1777553511794_l_medium.jpg" group-title="Kids" tvg-language="Telugu",Kushi TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x0FHObZ6aaQiza11_T_wdQ","kid":"IJiwJn6wXIubmHf3XML1kA"},{"kty":"oct","k":"bGVi76fgZWmM0qq5cZvMoQ","kid":"ktvbkVGGWJWY_Dg0ud5sHQ"},{"kty":"oct","k":"q7Sw40io-E2k4xtGWzzPZg","kid":"pmXjSR5_VbmNrFlGYSFiDQ"},{"kty":"oct","k":"VpECC94x2KJtNr025U688w","kid":"jiQwTOl5UmSdDK2_-hlvHA"},{"kty":"oct","k":"UoarqkQKCmNSA8t8TtjalA","kid":"acJDjhzjV265dh2Af1BJfQ"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Kushi_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1792340483~exp=1792362083~acl=/bpk-tv/Kushi_TV_BTS/WDVLive/*~hmac=56d903f3248a1252c77ffd871e5a89a5c96056d702919fe5ae96edb766855a03
+
+#EXTINF:-1 tvg-id="194347" tvg-name="Chintu TV" tvg-logo="https://img.media.jio.com/tvpimages/42/81/304153_1777557670881_l_medium.jpg" group-title="Kids" tvg-language="Kannada",Chintu TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X2-8tZaQ4Oamd50A-E4gcA","kid":"wYJjJ-siXLy5KbC3LR9vgw"},{"kty":"oct","k":"2-bb0FFK6eSVHxnEWUxKBw","kid":"l2EcHhvXWmOhIVolhGidKQ"},{"kty":"oct","k":"Pz8W4ITwAo_MhydV3Z3VhA","kid":"3UK7mCBxUQC_5UfvDA31QQ"},{"kty":"oct","k":"JXea9RP56-fu6xRyf2xjkA","kid":"4vgujKK7W0Cwa6tEdiSIUA"},{"kty":"oct","k":"rkgll83oSceNSIw1yfb6ww","kid":"0h2I-Vc8Xr6HDVzp-bOpig"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Chintu_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1792340483~exp=1792362083~acl=/bpk-tv/Chintu_TV_BTS/WDVLive/*~hmac=31b657c99fa4a7fe9439d6afd973b9b1e7d315e773cb8df9f6ca71eac0c02c94
+
+#EXTINF:-1 tvg-id="194390" tvg-name="Chutti TV" tvg-logo="https://img.media.jio.com/tvpimages/50/19/304154_1777558001428_l_medium.jpg" group-title="Kids" tvg-language="Tamil",Chutti TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NgjhXLsmN4_aVMRt0YJavQ","kid":"jznTGWfEWY-3KCMVe-uvRw"},{"kty":"oct","k":"tKDywXPiBe0ZhXJ3asgS3g","kid":"wRJzxPEyVayksmdT49FAqw"},{"kty":"oct","k":"z9Mwqg_mRqAR8bfBF4EPEA","kid":"AnsiUnI5Wie30FNtfBZvww"},{"kty":"oct","k":"d3LRJTVHJfZDP95fqxPbgw","kid":"z_d9tGDuUweEaPgckVdPig"},{"kty":"oct","k":"Qn0uJI1Zaq9n_VRpO53ATQ","kid":"wgZscKU3VqOovaATJFu3hQ"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Chutti_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1792340484~exp=1792362084~acl=/bpk-tv/Chutti_TV_BTS/WDVLive/*~hmac=f8fade0365cd8915b207e6f0f653b628cf58b40aa29b8dcc1bd7742e740ce641
+
+#EXTINF:-1 tvg-id="3537" tvg-name="ducktv" tvg-logo="https://img.media.jio.com/tvpimages/56/47/304181_1777981439991_l_medium.jpg" group-title="Kids" tvg-language="English",ducktv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WLYtdoer5QXFxocnI3EfiQ","kid":"aGPH8ZVNW9-0vRoznHM5Jg"},{"kty":"oct","k":"vnWFUOGzrVw4KpIQSblAeQ","kid":"hbw1ovanWv2StNphnu1Dsg"},{"kty":"oct","k":"HEIS8vE14z49zad4LRsPlg","kid":"G6Z40IECWCmjbMLPtxo1HA"},{"kty":"oct","k":"3X1ZtECXWmA66NyOUx-NIg","kid":"e9laX1YaWI68eRcyEnjsjQ"},{"kty":"oct","k":"7hVGPKWogt2Ewqplv_ER4g","kid":"kEU4hEG6WnqMCGQO-OtB9g"}],"type":"temporary"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/DuckTV_BTS/WDVLive/index.mpd?__hdnea__=st=1792340485~exp=1792362085~acl=/bpk-tv/DuckTV_BTS/WDVLive/*~hmac=6ada2a3db2402e9ff2789b67aca2057e6ef573fa9319e27d014de36471c2a176
